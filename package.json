@@ -54,6 +54,7 @@
     "xfarr-api": "^1.0.2",
     "yargs": "^17.2.1",
     "yt-search": "^2.7.6"
+  }, 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zeeoneofc/"
